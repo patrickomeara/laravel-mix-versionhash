@@ -6,6 +6,7 @@
     "main": "src/index.js",
     "description": "auto append hash to file name",
     "homepage": "https://github.com/ctf0/laravel-mix-versionhash",
+    "type": "commonjs",
     "repository": {
         "type": "git",
         "url": "https://github.com/ctf0/laravel-mix-versionhash.git"
